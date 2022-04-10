@@ -1,0 +1,171 @@
+body{
+    background-color: rgb(253, 234, 234);
+    margin-left: 350px;
+    margin-right:350px ;
+}
+
+.circle1{
+    border-radius: 45%;
+    width: 11px;
+    height: 11px;
+    padding: 4px;
+    background: rgb(253, 234, 234);
+    border: 1.5px solid #000;
+    color: #000;
+    text-align: center;
+    font: 12px Arial, sans-serif;
+    position: absolute;
+    right: 300px;
+    top:80px;
+    
+}
+.circle2{
+    border-radius: 45%;
+    width: 11px;
+    height: 11px;
+    padding: 4px;
+    background: rgb(253, 234, 234);
+    border: 1.5px solid #000;
+    color: #000;
+    text-align: center;
+    font: 12px Arial, sans-serif;
+    position: absolute;
+    right: 300px;
+    top:110px;
+}
+.circle3{
+    border-radius: 45%;
+    width: 11px;
+    height: 11px;
+    padding: 4px;
+    background: rgb(253, 234, 234);
+    border: 1.5px solid #000;
+    color: #000;
+    text-align: center;
+    font: 12px Arial, sans-serif;
+    position: absolute;
+    right: 300px;
+    top:140px;
+    
+}
+.circle4{
+    border-radius: 45%;
+    width: 11px;
+    height: 11px;
+    padding: 4px;
+    background: rgb(253, 234, 234);
+    border: 1.5px solid #000;
+    color: #000;
+    text-align: center;
+    font: 12px Arial, sans-serif;
+    position: absolute;
+    right: 300px;
+    top:170px;
+    
+}
+
+.circle5{
+    border-radius: 45%;
+    width: 11px;
+    height: 11px;
+    padding: 4px;
+    background: rgb(253, 234, 234);
+    border: 1.5px solid #000;
+    color: #000;
+    text-align: center;
+    font: 12px Arial, sans-serif;
+    position: absolute;
+    right: 300px;
+    top:200px;
+    
+}
+
+.stnum{
+    font-size: 32px;
+    color: rgb(148, 118, 118);
+    position: absolute;
+    top: 5px;
+
+}
+
+.ndnum{
+    font-size: 32px;
+    color: rgb(148, 118, 118);
+    position: relative;
+    left:400px;
+    bottom:215px;
+}
+.para2{
+    position: relative;
+    left:400px;
+    bottom:200px;
+}
+
+.rdnum{
+    font-size: 32px;
+    color: rgb(148, 118, 118);
+    position:relative;
+    left:185px;
+    bottom: 200px;
+    
+}
+.para3{
+    position:relative;
+    left:185px;
+    bottom: 200px;
+}
+
+.lastpar{
+    position:relative;
+    bottom: 175px;
+}
+
+.thnum{
+    font-size: 32px;
+    color: rgb(148, 118, 118);
+    position:relative;
+    left:450px;
+    bottom: 525px;
+}
+.para4{
+    position:relative;
+    left:400px;
+    bottom: 525px;
+
+}
+
+.fnum{
+    font-size: 32px;
+    color: rgb(148, 118, 118);
+    position:relative;
+    left:450px;
+    bottom: 550px;
+}
+
+.para5{
+    position:relative;
+    left:400px;
+    bottom: 575px;
+
+}
+
+.line{
+    position: relative;
+    border-right: 3px solid black;
+    height: 230px;
+}
+
+.linepara{
+    font-size: 12px ;
+    position: absolute;
+    right:290px;
+    top:10px;
+}
+
+/* .one{
+    position: absolute;
+    top: 2px;
+    left:400px;
+    /* bottom:215px; */
+/* } */ 
+/* .two{} */
